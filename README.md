@@ -1,4 +1,4 @@
-### Face Recognition and Attendance Marking Script
+# Face Recognition and Attendance Marking Script
 
 #### Overview
 This Python script enables real-time face recognition using OpenCV and the `face_recognition` library. It captures video from the webcam, detects faces, compares them with known faces, and marks attendance based on recognized faces.
@@ -21,7 +21,7 @@ This Python script enables real-time face recognition using OpenCV and the `face
 - os
 - datetime
 
-  # Face Recognition with OpenCV and face_recognition
+  # Face Recognition with OpenCV 
 
 This repository contains Python scripts for performing face recognition using OpenCV and the `face_recognition` library. It demonstrates how to detect and recognize faces in images.
 
